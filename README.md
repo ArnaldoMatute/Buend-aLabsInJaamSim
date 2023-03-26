@@ -1,6 +1,8 @@
 # BuendíaLabsInJaamSim
 A discrete events model for Buendía Labs emergency vaccination center in Macondo, Colombia.
 
+<img width="806" alt="JaamSim2022-06_tCc8RPzjET" src="https://user-images.githubusercontent.com/63328827/227752743-2a79cc51-8b31-4b7e-8b57-ef07644ae480.png">
+
 This model has been developed along my advisory work with my client Buendía labs in Macondo, Colombia.
 (Fictitious names are used for the sake of client’s protection)
 
