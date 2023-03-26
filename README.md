@@ -70,7 +70,7 @@ The next step to increase this project potential could be:
 -	Automatize multiple scenarios runs.
 -	Analyze data logs of all scenarios and multiple replications aided by a data visualization dashboard. 
 
-The model in this repository is just available in Spanish
+The [model](https://github.com/ArnaldoMatute/Buend-aLabsInJaamSim/blob/main/Buendia%20Labs.cfg) in this repository is just available in Spanish
 
 
 
