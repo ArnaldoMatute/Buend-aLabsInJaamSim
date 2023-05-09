@@ -25,7 +25,7 @@ o	Saturdays: 7:00 to 12:00
 -	50% of probability of exposure considering lockdowns were not necessary in Macondo (and hopefully either not in the rest of the world).
 -	78% Macondo’s population has manifested willingness to receive the vaccine.
 
-Given the conditions in which Buendía Labs’ must work, efficiency is the clue to reach challenging goals such as these ones. Managers understand that hiring new personnel must be necessary, but the don’t want to make such a decision without any previous thorough analysis. Thus, building the a JaamSim model has been my main advice for them. With this model they have been able to simulate every scenario, being the first one:
+Given the conditions in which Buendía Labs’ must work, efficiency is the clue to reach challenging goals such as these ones. Managers understand that hiring new personnel must be necessary, but they don’t want to make such a decision without any previous thorough analysis. Thus, building the a JaamSim model has been my main advice for them. With this model they have been able to simulate every scenario, being the first one:
 -	Patients can arrive to the center in groups of up to eight people. (Uniformly distributed between one and eight)
 -	An interarrival time: Exponentially distributed with mean of 15 minutes.	 
 
