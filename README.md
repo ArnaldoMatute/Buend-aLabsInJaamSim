@@ -67,7 +67,7 @@ Where:
 -	472 people went through the process, in which 334 of them were vaccinated. The difference is explained by people who decided not to get the vaccine after the screening in which they would be told if they could present health complications.
 -	Patients leave quite on time according to the work schedule. Only a 20 minutes lag was once observed. A condition to accomplish this has been to close the entry of new patients at 10:30 to be ready for lunch time and at 16:00 to be ready at the end of the work day.
 
-To vaccinate 140,000 people in one year, 48 full working weeks have been considered (Easter, Christmas, New Years Eve, and, of course, carnival… This is the Caribbean Colombian coast!). On these conditions they must deploy 9 centers like this one in all Macondo. Nevertheless, if the decide to change work schedule or increasing personnel, this model will help Buendía labs to propose different scenarios to make better decisions. 
+To vaccinate 140,000 people in one year, 48 full working weeks have been considered (Easter, Christmas, New Years Eve, and, of course, carnival… This is the Caribbean Colombian coast!). On these conditions they must deploy 9 centers like this one in all Macondo. Nevertheless, if they decide to change work schedule or increasing personnel, this model will help Buendía labs to propose different scenarios to make better decisions. 
 The next step to increase this project potential could be:
 -	Automatize multiple scenarios runs.
 -	Analyze data logs of all scenarios and multiple replications aided by a data visualization dashboard. 
